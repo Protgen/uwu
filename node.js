@@ -23,4 +23,4 @@ client.on('message', async message => {
   }
 });
 
-client.login('MTA3NTQ5ODExMjg1ODE5ODAxNw.GbM8-7.hBJSDLALoFBlJJV78nrBmjO27Iir0-4h1Db_LE');
+client.login('MTA3NTQ5ODExMjg1ODE5ODAxNw.GVDvnZ.N-u0zJ2LfZhIYO1Nh_h8CsExdwx2o_f0jfgSlM');
